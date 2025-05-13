@@ -1,5 +1,5 @@
-streamlit
 tensorflow
-pillow
+streamlit
 pyngrok
+pillow
 numpy
